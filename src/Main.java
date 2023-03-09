@@ -16,5 +16,6 @@ public class Main {
         System.out.println("Mitt namn är " + jsonOb.get("name"));
         System.out.println("Jag är " + jsonOb.get("age") + " år gammal.");
 
+        System.out.println(jsonOb);
     }
 }
